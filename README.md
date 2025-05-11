@@ -4,7 +4,8 @@ Welcome! This repository contains a WebGL build of a Unity project created by **
 
 ## 🎮 Play the Demo
 
-▶️ [Play here on GitHub Pages](https://your-github-username.github.io/your-repo-name/)
+▶️ [Play here on Itch.io]([https://your-github-username.github.io/your-repo-name/](https://niklaskum.itch.io/mapgamedemo))
+> Password for demo is 'demo2025'
 
 > Note: WebGL may take a few seconds to load depending on your connection and browser.
 
